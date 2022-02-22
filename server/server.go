@@ -8,7 +8,7 @@ import (
 	"net"
 
 	"google.golang.org/grpc"
-	"../proto/crashy.pb.go"
+	"github.com/amyhuan/crashy/proto"
 )
 
 var (
